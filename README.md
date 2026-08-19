@@ -1,5 +1,3 @@
-readme = """# Glass Classification Project
-
 ## Overview
 
 This project uses machine learning to classify different types of glass based on their chemical composition. The project includes data preprocessing, exploratory data analysis (EDA), data visualization, and classification models to predict glass types.
