@@ -65,9 +65,4 @@ The Logistic Regression model achieved approximately **65% accuracy**. PCA and K
 ## Author
 
 Elianne Nishimwe
-"""
 
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme)
-
-print("README.md created successfully!")
